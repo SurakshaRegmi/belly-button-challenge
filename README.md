@@ -8,7 +8,8 @@ Technology used:
 
 Plotly and D3 library from JavaScript to generates plot
 HTML – page framework
-Data restored in sample.json format
+Data restored in sample.json format 
+
 Tasks Performed:
 
 Displaying the top 10 OTUs found in an individual with horizontal bar chart i. Sample values – Values of the bar chart ii. Out_ids – labels for the bar chart iii. Out_labels – hovertext for the chart
