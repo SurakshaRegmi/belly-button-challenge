@@ -8,7 +8,7 @@ Technology used:
 
 Plotly and D3 library from JavaScript to generates plot
 HTML – page framework
-Data restored in sample.json format 
+Data restored in sample.json format  
 
 Tasks Performed:
 
@@ -18,4 +18,7 @@ Displaying each sample with bubble char i. Out_ids – x values ii. Sample_value
 
 Displaying an individual demographic information
 
-Displaying weekly washing frequency of the individual with the Guage Chart
+Displaying weekly washing frequency of the individual with the Guage Chart 
+
+Please note: Due to CORS Policy, the output is generated via live server extension (http://127.0.0.1:5500/index.html)
+
